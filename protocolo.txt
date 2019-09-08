@@ -1,4 +1,6 @@
-﻿** prueba 
+﻿
+Otro línea añadida makroz
+** prueba 
 *** segundo cambio en protocolo
 protocolo 1 prueba login 
 server recibe:
