@@ -6,5 +6,6 @@ server responde:
 {complete: bool, data: Array de Objetos, message: string }
 ****** makroz
 
-
+osso
+editando el archivo
 
