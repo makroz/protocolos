@@ -1,4 +1,5 @@
 ﻿** prueba 
+*** segundo cambio en protocolo
 protocolo 1 prueba login 
 server recibe:
 {action: 'login', data: array (usuario, pass), msg: strig }
